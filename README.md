@@ -1,6 +1,2 @@
 # resetRQ
 resetRQ
-
-aa
-
-bb
